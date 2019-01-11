@@ -21,3 +21,5 @@ nav:
    link: "cv.pdf"
  - name: "Contact"
    link: "contact"
+
+theme: jekyll-theme-cayman
