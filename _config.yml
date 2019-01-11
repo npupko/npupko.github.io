@@ -1,0 +1,23 @@
+title: Nikita Pupko
+url: "https://npupko.github.io"
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: UA-132331336-1
+
+footer: yes
+footer_url: "https://github.com/ankitsultana/researcher"
+footer_text: "© 2018 Nikita Pupko. Powered by Jekyll using the Researcher theme."
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "Nikita Pupko"
+   link: "/"
+ - name: "Resume"
+   link: "cv.pdf"
+ - name: "Contact"
+   link: "contact"
