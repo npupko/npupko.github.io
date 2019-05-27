@@ -71,9 +71,11 @@ Speciality: programmer-designer
 * [TwitchDropper: The application for automatic viewing of broadcasts on twitch.tv](https://github.com/npupko/twitch_dropper)
 
 ## My Pull Requests
+* [Coditsu: Specs for the offending sources enging](https://github.com/coditsu/offending-sources/pull/10)
+* [Coditsu: Rake task for the offending sources engine](https://github.com/coditsu/offending-sources/pull/12)
+* [saintprug/spb_link_shortener: Add metadata for specs](https://github.com/saintprug/spb_link_shortener/pull/1)
 * [vim-rails #530](https://github.com/tpope/vim-rails/pull/530)
 * [vim-test: Add the ability to configuring the Neovim terminal position #319](https://github.com/janko-m/vim-test/pull/319)
-
 
 ## Publications
 1. [Toolkit for front-end development for Linux](https://habr.com/post/312508/) (2016)
