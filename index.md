@@ -73,7 +73,9 @@ Speciality: programmer-designer
 ## My Pull Requests
 * [Coditsu: Specs for the offending sources enging](https://github.com/coditsu/offending-sources/pull/10)
 * [Coditsu: Rake task for the offending sources engine](https://github.com/coditsu/offending-sources/pull/12)
+* [storeon/svelte: Usage sample with @storeon/router](https://github.com/storeon/svelte/pull/15)
 * [saintprug/spb_link_shortener: Add metadata for specs](https://github.com/saintprug/spb_link_shortener/pull/1)
+* [svelte-apollo: Fix function definition](https://github.com/timhall/svelte-apollo/pull/24)
 * [vim-rails #530](https://github.com/tpope/vim-rails/pull/530)
 * [vim-test: Add the ability to configuring the Neovim terminal position #319](https://github.com/janko-m/vim-test/pull/319)
 
