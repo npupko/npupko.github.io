@@ -73,6 +73,7 @@ Speciality: programmer-designer
 ## My Pull Requests
 * [Coditsu: Specs for the offending sources enging](https://github.com/coditsu/offending-sources/pull/10)
 * [Coditsu: Rake task for the offending sources engine](https://github.com/coditsu/offending-sources/pull/12)
+* [Webpacker: Fix Svelte generator](https://github.com/rails/webpacker/pull/2238)
 * [storeon/svelte: Usage sample with @storeon/router](https://github.com/storeon/svelte/pull/15)
 * [saintprug/spb_link_shortener: Add metadata for specs](https://github.com/saintprug/spb_link_shortener/pull/1)
 * [svelte-apollo: Fix function definition](https://github.com/timhall/svelte-apollo/pull/24)
