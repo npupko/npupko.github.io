@@ -6,9 +6,53 @@ layout: default
 
 <img class="profile-picture" src="avatar.jpeg">
 
-Hi! I am a fullstack Ruby on Rails developer with over 2 years of backend/frontend experience providing thorough and skillful completing business tasks.
+Hi! I am a fullstack Ruby on Rails developer with over 3 years of backend/frontend experience providing thorough and skillful completing business tasks.
 
 ## Experience
+
+---
+
+**Ruby on Rails developer**
+ASoft.co LLC
+Minsk
+
+_September 2017 - October 2019_
+
+- Building e-commerce apps for Shopify powered by Ruby and Ruby on Rails
+- Frontend development using React.js
+- Deploying and maintaining web-apps
+- REST/Graphql APIs developing
+
+*Free shipping popup:*
+* Create a frontend template for the popup with customization and JS animations/triggers
+* Make a system for the custom images uploading and applying them to the popup
+* Setup AWS lambdas for the impressions tracking
+* Participate in the development of the Shopify API background processing system (webhooks)
+* Setup AWS DynamoDB storage
+* Setup AWS S3 & Cloudfront js scripts delivery & processing to the customers
+* Participate in the frontend part developing of the application (React, Polaris, Webpack)
+* Slack informer-bot developing
+
+*Back In Stock via Messenger:*
+* Work with Facebook API/GraphAPI
+* Manage scheduled and background processing for the customers. (Sidekiq/Redis)
+* Perform web application updates. (Deploy and configure Ansible/Linux)
+* Develop features, starting from HTML/CSS and ending with processing on the backend (HTML/CSS/Ruby/Rails)
+
+*Company Website:*
+* Participate in the development of the Shopify apps analysis system. (Statistics of Shopify partner companies):
+* Move apps analysis system from the Rest API to the GraphQL API
+* Write and configure the backend GraphQL API server for the apps analysis system. (Rails GraphQL app)
+
+*Customer Tagger:*
+* Highload optimization of the background orders processing
+
+*Customer FB Bot:*
+* Developing of the facebook news-bot:*
+* Collect Atom/UML data and save it into the database
+* Generating news feed for the users based on preferences
+
+---
 
 **Frontend developer**
 Fenix IT
@@ -20,18 +64,6 @@ _June 2016 - June 2017_
 - Developed and configured bunch of Bitrix templates 
 - Developed and configured bunch of WordPress templates 
 
----
-
-**Ruby on Rails developer**
-ASoft.co LLC
-Minsk
-
-_September 2017 - Currently_
-
-- Building e-commerce apps for the Shopify powered by Ruby and Ruby on Rails.
-- Deploying and maintaining web-apps
-- Frontend development using React.js
-- Developed REST/Graphql API for the analytics service of Shopify applications
 
 ## Education
 
