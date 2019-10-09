@@ -48,7 +48,7 @@ _September 2017 - October 2019_
 * Highload optimization of the background orders processing
 
 *Customer FB Bot:*
-* Developing of the facebook news-bot:*
+* Developing of the facebook news-bot
 * Collect Atom/UML data and save it into the database
 * Generating news feed for the users based on preferences
 
