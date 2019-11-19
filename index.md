@@ -11,6 +11,11 @@ Hi! I am a fullstack Ruby on Rails developer with over 3 years of backend/fronte
 ## Experience
 
 ---
+**Ruby on Rails developer**
+Datarockets
+Minsk
+
+_November 2019_
 
 **Ruby on Rails developer**
 ASoft.co LLC
