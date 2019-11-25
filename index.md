@@ -12,13 +12,15 @@ Hi! I am a fullstack Ruby on Rails developer with over 3 years of backend/fronte
 
 ---
 **Ruby on Rails developer**
-Datarockets
+Datarockets  
 Minsk
 
-_November 2019_
+_November 2019 - Currently_
+
+---
 
 **Ruby on Rails developer**
-ASoft.co LLC
+ASoft.co LLC  
 Minsk
 
 _September 2017 - October 2019_
@@ -60,7 +62,7 @@ _September 2017 - October 2019_
 ---
 
 **Frontend developer**
-Fenix IT
+Fenix IT  
 Minsk
 
 _June 2016 - June 2017_
