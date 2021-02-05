@@ -5,6 +5,7 @@ markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
 tracking_id: UA-132331336-1
+highlighter: rouge
 
 footer: yes
 footer_url: "https://github.com/ankitsultana/researcher"
