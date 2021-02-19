@@ -6,21 +6,32 @@ layout: default
 
 <img class="profile-picture" src="avatar.jpeg">
 
-Hi! I am a fullstack Ruby on Rails developer with over 3 years of backend/frontend experience providing thorough and skillful completing business tasks.
+Hi! I am a Software Developer with over 5 years of backend/frontend experience providing thorough and skillful completion of business tasks.
 
 ## Experience
 
 ---
-**Ruby on Rails developer**
-Datarockets  
+**Software developer**
+Datarockets
 Minsk
 
-_November 2019 - Currently_
+_November 2020 - Currently_
+
+Participating in different projects including different technology stacks using Ruby/RoR, React, NodeJS, GraphQL
+
+_April 2020 - November 2020_
+
+*Freewrite Traveler*
+Developing bunch of features for [Freewrite Traveler](https://getfreewrite.com/) including files management, Postbox web-application, different optimizations on code level
+
+_November 2019 - April 2020_
+
+Participating in different projects including different technology stacks using Ruby/RoR, React, NodeJS, GraphQL
 
 ---
 
 **Ruby on Rails developer**
-ASoft.co LLC  
+ASoft.co LLC
 Minsk
 
 _September 2017 - October 2019_
